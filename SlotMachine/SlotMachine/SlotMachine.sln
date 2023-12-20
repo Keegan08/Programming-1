@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "SlotMachine", "SlotMachine.pyproj", "{545E6CB6-A398-48F3-ADE5-C1F0EE370C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545E6CB6-A398-48F3-ADE5-C1F0EE370C27}.Debug|x86.Build.0 = Debug|x86
+		{545E6CB6-A398-48F3-ADE5-C1F0EE370C27}.Debug|x86.ActiveCfg = Debug|x86
+		{545E6CB6-A398-48F3-ADE5-C1F0EE370C27}.Release|x86.Build.0 = Release|x86
+		{545E6CB6-A398-48F3-ADE5-C1F0EE370C27}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

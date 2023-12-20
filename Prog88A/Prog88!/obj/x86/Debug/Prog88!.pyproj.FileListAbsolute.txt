@@ -1,0 +1,14 @@
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Prog88!.exe.config
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Prog88!.exe
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Prog88!.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\IronPython.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\IronPython.Modules.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\IronPython.xml
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\bin\Debug\IronPython.Modules.xml
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\obj\x86\Debug\Prog88!.pyprojResolveAssemblyReference.cache
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\obj\x86\Debug\Prog88_.MainForm.resources
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\obj\x86\Debug\Prog88!.pyproj.GenerateResource.Cache
+C:\Users\mayo.k\Documents\Programming-1\Prog88A\Prog88!\obj\x86\Debug\Prog88!.exe

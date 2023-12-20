@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "MyName", "MyName.rbproj", "{A8C61644-73E6-4822-A15A-1EAFAB118CC1}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "AboutMe", "..\AboutMe\AboutMe.rbproj", "{47CCE9A6-516A-42F5-A98F-74EE8BA50A04}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "GoCraig!", "..\GoCraig!\GoCraig!.rbproj", "{B7041A42-47AF-4F7A-93CC-E5C4B594B705}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "FavoriteClub", "..\FavoriteClub\FavoriteClub.rbproj", "{26238558-76B6-4E81-96D5-3320494F1C94}"
+EndProject
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "FavoriteQuote", "..\FavoriteQuote\FavoriteQuote.rbproj", "{F819ADA1-BEED-4B23-B71F-99D2604BEAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C61644-73E6-4822-A15A-1EAFAB118CC1}.Debug|x86.Build.0 = Debug|x86
+		{A8C61644-73E6-4822-A15A-1EAFAB118CC1}.Debug|x86.ActiveCfg = Debug|x86
+		{A8C61644-73E6-4822-A15A-1EAFAB118CC1}.Release|x86.Build.0 = Release|x86
+		{A8C61644-73E6-4822-A15A-1EAFAB118CC1}.Release|x86.ActiveCfg = Release|x86
+		{47CCE9A6-516A-42F5-A98F-74EE8BA50A04}.Debug|x86.Build.0 = Debug|x86
+		{47CCE9A6-516A-42F5-A98F-74EE8BA50A04}.Debug|x86.ActiveCfg = Debug|x86
+		{47CCE9A6-516A-42F5-A98F-74EE8BA50A04}.Release|x86.Build.0 = Release|x86
+		{47CCE9A6-516A-42F5-A98F-74EE8BA50A04}.Release|x86.ActiveCfg = Release|x86
+		{B7041A42-47AF-4F7A-93CC-E5C4B594B705}.Debug|x86.Build.0 = Debug|x86
+		{B7041A42-47AF-4F7A-93CC-E5C4B594B705}.Debug|x86.ActiveCfg = Debug|x86
+		{B7041A42-47AF-4F7A-93CC-E5C4B594B705}.Release|x86.Build.0 = Release|x86
+		{B7041A42-47AF-4F7A-93CC-E5C4B594B705}.Release|x86.ActiveCfg = Release|x86
+		{26238558-76B6-4E81-96D5-3320494F1C94}.Debug|x86.Build.0 = Debug|x86
+		{26238558-76B6-4E81-96D5-3320494F1C94}.Debug|x86.ActiveCfg = Debug|x86
+		{26238558-76B6-4E81-96D5-3320494F1C94}.Release|x86.Build.0 = Release|x86
+		{26238558-76B6-4E81-96D5-3320494F1C94}.Release|x86.ActiveCfg = Release|x86
+		{F819ADA1-BEED-4B23-B71F-99D2604BEAC6}.Debug|x86.Build.0 = Debug|x86
+		{F819ADA1-BEED-4B23-B71F-99D2604BEAC6}.Debug|x86.ActiveCfg = Debug|x86
+		{F819ADA1-BEED-4B23-B71F-99D2604BEAC6}.Release|x86.Build.0 = Release|x86
+		{F819ADA1-BEED-4B23-B71F-99D2604BEAC6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

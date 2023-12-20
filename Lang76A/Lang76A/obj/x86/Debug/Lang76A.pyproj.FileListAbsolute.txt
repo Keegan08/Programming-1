@@ -1,0 +1,14 @@
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Lang76A.exe.config
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Lang76A.exe
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Lang76A.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\IronPython.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\IronPython.Modules.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\IronPython.xml
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\bin\Debug\IronPython.Modules.xml
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\obj\x86\Debug\Lang76A.pyprojResolveAssemblyReference.cache
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\obj\x86\Debug\Lang76A.MainForm.resources
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\obj\x86\Debug\Lang76A.pyproj.GenerateResource.Cache
+C:\Users\mayo.k\Desktop\programming-1\Lang76A\Lang76A\obj\x86\Debug\Lang76A.exe

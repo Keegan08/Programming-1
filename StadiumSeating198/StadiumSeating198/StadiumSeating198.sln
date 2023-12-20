@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "StadiumSeating198", "StadiumSeating198.pyproj", "{BCE3AEB5-9781-46B2-B78C-ED32518AE0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE3AEB5-9781-46B2-B78C-ED32518AE0F0}.Debug|x86.Build.0 = Debug|x86
+		{BCE3AEB5-9781-46B2-B78C-ED32518AE0F0}.Debug|x86.ActiveCfg = Debug|x86
+		{BCE3AEB5-9781-46B2-B78C-ED32518AE0F0}.Release|x86.Build.0 = Release|x86
+		{BCE3AEB5-9781-46B2-B78C-ED32518AE0F0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

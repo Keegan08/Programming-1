@@ -1,0 +1,14 @@
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\fatcalc.exe.config
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\fatcalc.exe
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\fatcalc.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\IronPython.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\IronPython.Modules.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\IronPython.xml
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\bin\Debug\IronPython.Modules.xml
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\obj\x86\Debug\fatcalc.pyprojResolveAssemblyReference.cache
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\obj\x86\Debug\fatcalc.MainForm.resources
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\obj\x86\Debug\fatcalc.pyproj.GenerateResource.Cache
+C:\Users\mayo.k\Desktop\programming-1\fatcalc\fatcalc\obj\x86\Debug\fatcalc.exe

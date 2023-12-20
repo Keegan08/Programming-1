@@ -1,0 +1,14 @@
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\obj\x86\Debug\MSOEpractice1.pyprojResolveAssemblyReference.cache
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\obj\x86\Debug\MSOEpractice1.MainForm.resources
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\obj\x86\Debug\MSOEpractice1.pyproj.GenerateResource.Cache
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\MSOEpractice1.exe.config
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\MSOEpractice1.exe
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\MSOEpractice1.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\IronPython.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\IronPython.Modules.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\IronPython.xml
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\bin\Debug\IronPython.Modules.xml
+C:\Users\mayo.k\Desktop\programming-1\MSOE practice1\MSOEpractice1\obj\x86\Debug\MSOEpractice1.exe
